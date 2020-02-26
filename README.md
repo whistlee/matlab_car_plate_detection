@@ -1,2 +1,4 @@
-# matlab_car_plate_detection
-Projekt analiza obrazów
+# Projekt AO
+## Aplikacja do odczytywania numeru rejestracyjnego ze zdjęcia
+
+> To w sumie tyle
