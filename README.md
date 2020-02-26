@@ -1,4 +1,2 @@
-# Projekt AO
-## Aplikacja do odczytywania numeru rejestracyjnego ze zdjęcia
-
-> To w sumie tyle
+# Project for univeristy course on AO
+## App to read license plate from image
